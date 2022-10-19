@@ -1,5 +1,5 @@
 import React from 'react';
-import img from '../logo.svg';
+import img from '../images/Troll Face.png'
 
 export default function Header(){
     return(
